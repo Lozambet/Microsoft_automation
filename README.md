@@ -46,8 +46,8 @@ All you need to automate everything
 Apri il **Prompt dei comandi (cmd)** ed esegui:
 
 ```bash
-git clone https://github.com/Lozambet/Microsoft_automation.git
-cd Microsoft_automation
+git clone https://github.com/Lozambet/Ms_rewards_auto.git
+cd Ms_rewards_auto
 ```
 
 ---
