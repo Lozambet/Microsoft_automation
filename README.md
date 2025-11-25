@@ -17,7 +17,7 @@ All you need to automate everything
    Registrati su [Microsoft](https://signup.live.com).
 
 2. **Aderisci a Microsoft Rewards**  
-   Apri [Microsoft Rewards](https://rewards.bing.com/welcome?rh=766ACD66&ref=rafsrchae) e completa l’iscrizione.
+   Apri [Microsoft Rewards](https://rewards.bing.com/welcome?rh=2AFEB1CC&ref=rafsrchae&form=ML2XE3&CREA=ML2XE3&form=ML2XE3&OCID=ML2XE3&PUBL=RewardsDO&CREA=ML2XE3) e completa l’iscrizione.
 
 3. **Completa i punti giornalieri**  
    Accedi ogni giorno e svolgi tutte le attività disponibili per accumulare punti.
